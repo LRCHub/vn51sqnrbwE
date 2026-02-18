@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "一番街コスモナウト feat. そらこ / 1st Avenue Cosmonaut feat.sorako",
+  "base_artist": "sasakure.UK",
+  "createdAt": "2026-02-18T18:07:12.549748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一番街コスモナウト feat. sorako",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/01_一番街コスモナウト_feat._sorako_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一番街コスモナウト feat. そらこ / 1st Avenue Cosmonaut feat.sorako",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/02_一番街コスモナウト_feat._そらこ___1st_Avenue_Cosmonaut_feat.sorako_sasakure.UK.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一番街コスモナウト",
+      "artist": "sasakure.UK, sorako",
+      "has_synced": false,
+      "path": "select/pl_01_一番街コスモナウト_sasakure.UK,_sorako.txt"
+    }
+  ]
+}
